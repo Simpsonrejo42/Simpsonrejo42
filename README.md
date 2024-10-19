@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Simpsonrejo42
 - 👀 I’m interested in :Computational chemistry
 - 🌱 I’m currently learning :Python-Data Scientist
-- 💞️ I’m looking to collaborate on :anything reklated to compchem
+- 💞️ I’m looking to collaborate on anything related to compchem
 - 📫 How to reach me just mail me:19114050r@gmail.com
 - 😄 Pronouns: Simppy-son🤷‍♀️
 - ⚡ Fun fact: Life is good!
